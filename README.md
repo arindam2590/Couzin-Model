@@ -20,7 +20,7 @@ This repository contains a Python implementation of the Couzin Model for simulat
    You can modify the parameters in the Simulation class within simulation.py to explore different behaviors. Key parameters include:
    - *'num_agent'*: Number of agents in the swarm.
    - *'speed'*: Speed of each agent.
-   - *'space_size'```: Size of the 2D simulation space.
+   - *'space_size'*: Size of the 2D simulation space.
    - *'sigma'*: Standard deviation of the noise applied to agent movement.
    - *'rep_r'*: Repulsion radius.
    - *'orien_r'*: Orientation radius.
