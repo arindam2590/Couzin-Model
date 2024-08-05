@@ -10,13 +10,13 @@ This repository contains a Python implementation of the Couzin Model for simulat
 - Configurable Parameters: Adjust parameters like the number of agents, speed, interaction radii, and noise to explore different swarm dynamics.
 
 #### Dependencies
-- ```'numpy'
-- ```'matplotlib'
-- ```'scipy'
+- ```'numpy'```
+- ```'matplotlib'```
+- ```'scipy'```
 
 #### Usage
 1. ##### Run the simulation:
-   ``` python3 couzin_main.py
+   ``` python3 couzin_main.py```
 2. ##### Adjust parameters:
    You can modify the parameters in the Simulation class within simulation.py to explore different behaviors. Key parameters include:
    - ``` 'num_agent': Number of agents in the swarm.
