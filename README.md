@@ -12,7 +12,6 @@ This repository contains a Python implementation of the Couzin Model for simulat
 #### **Dependencies**
 - ```'numpy'```
 - ```'matplotlib'```
-- ```'scipy'```
 
 #### **Usage**
 1. ##### **Run the simulation:**
