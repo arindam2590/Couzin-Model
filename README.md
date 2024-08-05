@@ -28,7 +28,7 @@ This repository contains a Python implementation of the Couzin Model for simulat
    - *'dt'*: Time step for the simulation.
 ### **References**
 This implementation is based on the Couzin Model, a widely recognized framework in the study of collective animal behavior. For more information, you can refer to the original paper:
-- Couzin, I.D., Krause, J., Franks, N.R., & Levin, S.A. (2005). Effective leadership and decision-making in animal groups on the move. Nature.
+- Couzin, I.D., Krause, J., James, R., Ruxton, G.D. and Franks, N.R., 2002. Collective memory and spatial sorting in animal groups. Journal of theoretical biology, 218(1), pp.1-11.
 
 This implementation serves as a basic starting point for understanding swarm dynamics and collective behavior. By modifying and extending the code, you can explore various aspects of agent-based modeling and swarm intelligence.
 
